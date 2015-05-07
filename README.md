@@ -1,7 +1,7 @@
 SparkFun MG2639 Cellular Shield Arduino Library
 ========================================
 
-![SparkFun MG2639 Cellular Shield](https://www.sparkfun.com/products/13120)
+![SparkFun MG2639 Cellular Shield](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/3/5/7/speaker-hookup.jpg)
 
 [*SparkFun MG2639 Cellular Shield (CEL-13120)*](https://www.sparkfun.com/products/13120)
 

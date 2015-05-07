@@ -20,8 +20,8 @@ local, and you've found our code helpful, please buy us a round!
 Distributed as-is; no warranty is given.
 ******************************************************************************/
 
-#include <MG2639_SMS.h>
-#include <MG2639_AT.h>
+#include "MG2639_SMS.h"
+#include "MG2639_AT.h"
 #include <SFE_MG2639_CellShield.h>
 #include <Arduino.h>
 
