@@ -31,6 +31,7 @@ Products that use this Library
 Version History
 ---------------
 
+* [V 1.0.0](https://github.com/sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library/tree/V_1.0.0) - Initial release
 
 License Information
 -------------------
