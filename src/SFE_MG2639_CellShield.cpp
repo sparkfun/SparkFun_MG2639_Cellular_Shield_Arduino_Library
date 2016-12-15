@@ -105,7 +105,7 @@ uint8_t MG2639_Cell::begin()
 {
 	// begin() works just like begin([baud]), but we'll call
 	// TARGET_BAUD_RATE defined in the h file.
-	begin(TARGET_BAUD_RATE);
+	return begin(TARGET_BAUD_RATE);
 }
 
 //////////////////////
