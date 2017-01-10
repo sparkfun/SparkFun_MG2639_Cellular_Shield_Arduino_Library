@@ -55,7 +55,7 @@ void setup()
   
   // This status variable will store the response error codes
   // of any functions we call.
-  uint8_t status;
+  int8_t status;
   
   // Every MG2639 sketch should begin with cell.begin().
   // This function will initialize the module, turn it on if
